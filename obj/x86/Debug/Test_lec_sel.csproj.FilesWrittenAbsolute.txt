@@ -1,0 +1,5 @@
+/home/zhake/Test_lec_sel/Test_lec_sel/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/zhake/Test_lec_sel/Test_lec_sel/bin/Debug/Test_lec_sel.exe.mdb
+/home/zhake/Test_lec_sel/Test_lec_sel/bin/Debug/Test_lec_sel.exe
+/home/zhake/Test_lec_sel/Test_lec_sel/obj/x86/Debug/Test_lec_sel.exe
+/home/zhake/Test_lec_sel/Test_lec_sel/obj/x86/Debug/Test_lec_sel.exe.mdb

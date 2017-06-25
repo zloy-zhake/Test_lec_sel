@@ -1,0 +1,21 @@
+be - {"it","picture","of","boa","constrictor","in","the","act","of","swallow","a","animal"}
+be - {"here","a","copy","of","the","drawing"}
+after - {"and","some","work","with","a","colour","pencil","I","succeed","in","make","my","first","draw"}
+look - {"it","something","like","this"}
+try - {"I","the","experiment","of","show","he","my","drawing","number","one","which","I","have","always","keep"}
+always - {"they","need#","to","have","thing","explain"}
+so - {"then","I","choose","another","profession","and","learn","to","pilot","airplane"}
+this - {"in","the","course","of","life","I","have","have","a","great","many","encounter","with","a","great","many","person","who","have","be","concern","with","matter","of","consequence"}
+meet - {"whenever","I","one","of","they","who","seem","to","I","at","all","clear-sighted"}
+try - {"I","would","to","find","out","so","if","this","be","a","person","of","true","understanding"}
+
+Console.Write("be:" + sel.select_sence("be", {"it","picture","of","boa","constrictor","in","the","act","of","swallow","a","animal"}) + "\n");
+Console.Write("be:" + sel.select_sence("be", {"here","a","copy","of","the","drawing"}) + "\n");
+Console.Write("after:" + sel.select_sence("after", {"and","some","work","with","a","colour","pencil","I","succeed","in","make","my","first","draw"}) + "\n");
+Console.Write("look:" + sel.select_sence("look", {"it","something","like","this"}) + "\n");
+Console.Write("try:" + sel.select_sence("try", {"I","the","experiment","of","show","he","my","drawing","number","one","which","I","have","always","keep"}) + "\n");
+Console.Write("always:" + sel.select_sence("always", {"they","need#","to","have","thing","explain"}) + "\n");
+Console.Write("so:" + sel.select_sence("so", {"then","I","choose","another","profession","and","learn","to","pilot","airplane"}) + "\n");
+Console.Write("this:" + sel.select_sence("this", {"in","the","course","of","life","I","have","have","a","great","many","encounter","with","a","great","many","person","who","have","be","concern","with","matter","of","consequence"}) + "\n");
+Console.Write("meet:" + sel.select_sence("meet", {"whenever","I","one","of","they","who","seem","to","I","at","all","clear-sighted"}) + "\n");
+Console.Write("try:" + sel.select_sence("try", {"I","would","to","find","out","so","if","this","be","a","person","of","true","understanding"}) + "\n");
